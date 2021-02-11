@@ -77,7 +77,6 @@ main(){
 				getche(); // menunggu inputan user, bebas mau pencet apapun
 				goto menu;// ini adalah fungsi untuk kembali ke awal label
 				break;
-			break;
 			
 		default:
 			;break;
