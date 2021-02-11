@@ -58,7 +58,7 @@ main(){
 	int menuPilihan = daftarMenu();
 	switch(menuPilihan){
 		case 1:
-				system("cls"); // Clearscreen untuk windows
+				system("cls"); // Clearscreen terminal di windows
 				cout << "Masukkan Jumlah Data : ";
 				cin >> n;  // Banyak data dinamis - tergantung keinginan user
 
